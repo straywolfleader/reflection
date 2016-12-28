@@ -1,0 +1,40 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    That's a very important and useful function(功能). Sometimes the complier 
+  can't find out the bugs which is logical. we will be take some times to find
+  out it. But our time is precious. Then we can use the command of diff to compare
+  the new file and the old one for finding out the bugs. Obviously, the command is
+  more useful somtimes than the complier.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Fill in your answer here
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Manually. We can choose the time of saving file. For the export, it is more 
+ effient. But it may be badder for new birds.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    The function about that saving multiple files in one commit is more stronger
+    than that treat eack file separately. We conld edit some file which is contact
+    each other such as .js. So saving multiple files in one commit will more useful.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Fill in your answer here
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Fill in your answer here
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Fill in your answer here

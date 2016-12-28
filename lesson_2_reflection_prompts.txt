@@ -1,0 +1,20 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+暂存区的作用承上启下，连接工作目录和版本库，他们中间的桥梁。我们可以使用add命令将多个文件加入到暂存区中然后可以一次提交保存多个文件，这样我们就可以提前将有关系的文件添加到暂存区中，不用多次提交，而且可以同时编辑多个文件。极大的发挥了git的作用。
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+How do the diagrams help you visualize the branch structure?
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
